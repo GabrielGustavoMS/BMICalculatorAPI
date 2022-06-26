@@ -9,8 +9,8 @@ router.get('/', (request, response) => {
 })
 
 router.get('/api', (request, response) => {
-  const { weight, high } = request.query
-  const bmiReport = BMICalculator.getBMIReport(weight, high)
+  const { weight, height } = request.query
+  const bmiReport = BMICalculator.getBMIReport(weight, height)
   return response.json(bmiReport)
 })
 

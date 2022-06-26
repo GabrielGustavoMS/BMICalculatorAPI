@@ -1,8 +1,8 @@
 class BMICalulator {
   constructor() {}
 
-  calculateBMI(weight, high) {
-    let bmi = Number(weight) / (Number(high) * Number(high))
+  calculateBMI(weight, height) {
+    let bmi = Number(weight) / (Number(height) * Number(height))
     bmi = bmi.toFixed(2)
     return bmi
   }
@@ -23,12 +23,12 @@ class BMICalulator {
     }
   }
 
-  getBMIReport(weight, high) {
-    let bmi = this.calculateBMI(weight, high)
+  getBMIReport(weight, height) {
+    let bmi = this.calculateBMI(weight, height)
     let categorie = this.getBMICategorie(bmi)
     return {
       weight: weight,
-      high: high,
+      height: height,
       bmi: bmi,
       categorie: categorie
     }

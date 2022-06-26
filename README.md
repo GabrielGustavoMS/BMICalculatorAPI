@@ -35,7 +35,7 @@ The API returns a JSON file with the following key values:
 
 Exemple Request:
 
-![Exemple Request](./exemple-request.jpg)
+![Exemple Request](./exemple-request01.jpg)
 
 ## How it works
 

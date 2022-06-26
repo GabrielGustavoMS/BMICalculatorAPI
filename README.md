@@ -12,6 +12,7 @@ This is a simple api that can calculate a person's BMI using weight and height. 
 - NodeJS
 - ExpressJS
 - Cors
+- Nodemon
 
 ## How to use it
 

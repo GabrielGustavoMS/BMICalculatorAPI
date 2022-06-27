@@ -1,6 +1,6 @@
 # BMI Calculator API
 
-![Thumb](./thumb.jpg)
+![Thumb](./bmi-thumb.jpg)
 
 ## Project
 

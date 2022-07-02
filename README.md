@@ -46,6 +46,8 @@ _weight / (height x height)_
 
 To determine the BMI categories, I followed the US Centers for Disease Control and Prevention specifications.
 
+## Sample APP
+
 Check out an [app that uses this API](https://github.com/GabrielGustavoMS/BMICalculatorAPP)
 
 ## References

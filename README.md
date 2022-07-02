@@ -46,6 +46,8 @@ _weight / (height x height)_
 
 To determine the BMI categories, I followed the US Centers for Disease Control and Prevention specifications.
 
+Check out an [app that uses this API](https://github.com/GabrielGustavoMS/BMICalculatorAPP)
+
 ## References
 
 - [BMI's Formula - Diabetes Obesity Center](<https://centrodeobesidadeediabetes.org.br/tudo-sobre-obesidade/calculadora-de-imc/#:~:text=Compartilhar%3A,ao%20quadrado%20(em%20metros).>)
